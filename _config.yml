@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_ftl.png"
-  name             : "Your Sidebar Name"
+  name             : "Tingliang Feng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Tianjin University"
+  employer         : "Tianjin University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fengtl@tju.edu.cn" 
 
   # Academic websites
   academia         : # URL
