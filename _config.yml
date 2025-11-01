@@ -26,8 +26,8 @@ author:
   avatar           : "profile_ftl.png"
   name             : "Tingliang Feng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Tianjin University"
+  bio              : "Doctoral student in computer science"
+  location         : "Tianjin University, building 55, B406"
   employer         : "Tianjin University"
   uri              : # URL
   email            : "fengtl@tju.edu.cn" 
