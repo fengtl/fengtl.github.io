@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: One paper is accepted by **NeurIPS 2022**! 
+date: 2022-09-12 00:01:00 +0800
 ---
