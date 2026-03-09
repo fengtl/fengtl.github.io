@@ -5,7 +5,7 @@ navbar_name: "Tingliang Feng"
 positions:
 - name: Pre-Tenure Associate Professor
 - name: Northwest University
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "fengtl@nwu.edu.cn"
@@ -22,12 +22,11 @@ email: "fengtl@nwu.edu.cn"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Pre-Tenure Associate Professor in College of Computer Science, Northwest University, Shannxi, China. I joined the Visual Intelligence Laboratory in March 2026, led by Prof. Guohua Geng. 
+    My current research interests include visual intelligence, multimodal learning, and the digitization of cultural heritage.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I graduated from Tianjin University with a PhD degree, under the supervision of <a href="https://cic.tju.edu.cn/faculty/fengwei/index.html" target="_blank">Prof. Wei Feng</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
