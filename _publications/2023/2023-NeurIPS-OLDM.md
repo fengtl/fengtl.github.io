@@ -15,5 +15,5 @@ authors:
 - Yanlin Zhou
 - Di Lin#
 links:
-  Paper:        /assets/images/paper/2023-NeurIPS-OLDM.pdf
+  Paper:        /assets/images/paper/2023/2023-NeurIPS-OLDM.pdf
 ---
