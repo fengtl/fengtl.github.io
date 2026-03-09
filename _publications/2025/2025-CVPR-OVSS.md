@@ -15,5 +15,5 @@ authors:
 - Liang Wan#
 
 links:
-  Paper: https://www.cell.com
+  Paper:        /assets/images/paper/2025/2025-CVPR-OVSS.pdf
 ---
