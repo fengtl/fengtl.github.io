@@ -17,4 +17,5 @@ authors:
 
 links:
   Paper:        /assets/paper/2025/2025-CVPR-CSS.pdf
+  Code:         https://github.com/YikeYin97/EIR
 ---
