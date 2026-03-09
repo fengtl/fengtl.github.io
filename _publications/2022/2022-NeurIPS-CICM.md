@@ -12,7 +12,5 @@ authors:
   - Weiqi Li
   - Di Lin#
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper:        /assets/images/paper/2022-NeurIPS-CICM.pdf
 ---
