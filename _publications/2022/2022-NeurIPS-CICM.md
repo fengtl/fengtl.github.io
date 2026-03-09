@@ -7,7 +7,7 @@ pub_date:       "2022"
 
 cover:          /assets/images/covers/2022-NeurIPS-CICM.png
 authors:
-  - Tingliang Feng
+  - <strong>Tingliang Feng</strong>
   - Wei Feng
   - Weiqi Li
   - Di Lin#
