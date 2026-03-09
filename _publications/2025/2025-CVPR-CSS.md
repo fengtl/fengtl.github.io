@@ -16,5 +16,5 @@ authors:
 - Liang Wan#
 
 links:
-  Paper: https://www.cell.com
+  Paper:        /assets/paper/2025/2025-CVPR-CSS.pdf
 ---
