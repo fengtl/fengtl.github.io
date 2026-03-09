@@ -29,9 +29,9 @@ short_bio: >-
     I graduated from Tianjin University with a PhD degree, under the supervision of <a href="https://cic.tju.edu.cn/faculty/fengwei/index.html" target="_blank">Prof. Wei Feng</a>.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/profile_ftl.png
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
