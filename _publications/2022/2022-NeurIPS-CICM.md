@@ -12,5 +12,5 @@ authors:
   - Weiqi Li
   - Di Lin#
 links:
-  Paper:        /assets/images/paper/2022-NeurIPS-CICM.pdf
+  Paper:        /assets/images/paper/2022/2022-NeurIPS-CICM.pdf
 ---
