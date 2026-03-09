@@ -8,7 +8,7 @@ pub_date:       "2025"
 cover:          /assets/images/covers/2025-CVPR-OVSS.png
 authors:
 - Zhengyang Wang
-- Tingliang Feng
+- <strong>Tingliang Feng</strong>
 - Fan Lyu
 - Fanhua Shang
 - Wei Feng
