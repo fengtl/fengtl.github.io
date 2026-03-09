@@ -7,7 +7,7 @@ pub_date:       "2023"
 
 cover:          /assets/images/covers/2023-NeurIPS-OLDM.png
 authors:
-- Tingliang Feng*
+- <strong>Tingliang Feng</strong>*
 - Hao Shi*
 - Xueyang Liu
 - Wei Feng
